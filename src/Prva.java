@@ -1,6 +1,6 @@
 public class Prva {
 
 	public static void main(String[] args) {
-		//komentar idk
+		System.out.println("Dominik Madzik");
 	}
 }
